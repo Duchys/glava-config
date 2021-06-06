@@ -1,7 +1,7 @@
 # glava-config
 Glava Configuration
 
-![alt text](https://github.com/duchys/glava-config/blob/master/example.png?raw=true)
+![alt text](https://raw.githubusercontent.com/duchys/glava-config/main/example.png)
 
 # Dependencies
 glava
